@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://sql-catalog-api.onrender.com' 
+  apiUrl: 'https://sql-catalog-api.onrender.com/api' 
 };
